@@ -1,0 +1,50 @@
+.main-container {
+  display: grid;
+  grid-template-columns: 50em auto auto auto;
+  grid-template-rows: 20em;
+}
+
+.item-1 {
+  background-color: brown;
+  height: 100px;
+
+  padding: 30px;
+
+  border: 2px black;
+}
+
+.item-2 {
+  background-color: rgb(165, 42, 118);
+  height: 200px;
+
+  padding: 30px;
+
+  border: 2px black;
+}
+
+.item-3 {
+  background-color: rgb(42, 165, 97);
+  height: 200px;
+
+  padding: 30px;
+
+  border: 2px black;
+}
+
+.item-4 {
+  background-color: rgb(42, 50, 165);
+  height: 200px;
+
+  padding: 30px;
+
+  border: 2px black;
+}
+
+.item-5 {
+  background-color: rgb(163, 165, 42);
+  height: 200px;
+
+  padding: 30px;
+
+  border: 2px black;
+}
